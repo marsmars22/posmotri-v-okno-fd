@@ -237,7 +237,7 @@ fieldset {
   transition: transform 0.2s ease;
 }
 .button {
-  font-family: Fira Sans Condensed;
+  font-family: "Fira Sans Condensed", sans-serif;
   background-color: transparent;
   color: white;
   border: 1px solid white;
